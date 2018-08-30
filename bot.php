@@ -68,5 +68,6 @@ function replyMsg($arrayHeader,$arrayPostData){
         curl_close ($ch);
     }
    exit;
-?>
 echo "OK";
+?>
+
